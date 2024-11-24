@@ -1,2 +1,2 @@
 # Landing-Page
-I will be making a basic landing page using css and html
+I will be making a basic landing page using CSS and HTML
