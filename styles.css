@@ -1,0 +1,170 @@
+body
+{
+    margin: -8px;
+}
+*{
+    font-family:"Roboto";
+    
+}
+.Hero,.footer, .Header
+{
+    
+    background-color: #1F2937;
+
+}
+#hero-main
+{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    padding-bottom: 5px;
+}
+#subtext
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.Hero
+{
+    font-size: 18px;
+    color: #E5E7EB;
+    display:flex;
+    flex-direction: column;
+    padding: 50px;
+}
+#Header-Logo ,ul
+{
+font-size: 24px;
+color: #F9FAF8;
+}
+button, .Action
+{
+    
+    background-color: #3882F6;
+    color:#E5E7EB;
+}
+#Title-Card
+{
+    font-size: 36px;
+    font-weight: 900;
+    color:#1F2937;
+    text-align: center;
+    padding: 30px;
+}
+.Quote
+{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style:italic;
+    display: flex;
+    padding: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+#Author{
+    font-weight:900;
+    font-size: 20px;
+    padding: 30px;
+    display: flex;
+
+}
+.illus
+{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.captions{
+    display: flex;
+    justify-content: center;
+    
+    gap:55px;
+}
+#Header-Logo
+{
+    display: flex;
+    justify-content: center;
+    
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.Header{
+    display: flex;
+   
+}
+placeholder
+{
+    display: flex;
+    
+    justify-content: right;
+    padding: 20px;
+    margin-left: auto;
+    padding-top:0px;
+     
+}
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    justify-content: right;
+    text-align: right;
+    margin: 0px;
+    margin-left: auto;
+    margin-bottom: auto;
+    padding-right: 10px;
+    padding-top: 10px;
+    
+}
+.Action{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    margin-left: 280px;
+    margin-right: 280px;
+    align-content: center;
+    
+
+}
+.cards{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+#quote
+{
+    padding: 30px;
+    display: flex;
+}
+.footer
+{
+    padding: 10px;
+    color: #F9FAF8;
+    text-align: center;
+    
+}
+.call
+{
+    padding: 30px;
+    font-size: 20px;
+}
+#calling
+{
+    font-weight: 900;
+    
+}
+button
+{
+    height: 30px;
+    width: 80px;
+    
+}
+#signing
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: auto;
+}
